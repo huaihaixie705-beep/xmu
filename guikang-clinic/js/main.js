@@ -1,4 +1,4 @@
-// 桂康诊所 · 移动端导航切换
+// 谢胜山诊所 · 移动端导航切换
 (function () {
   var toggle = document.querySelector('.nav-toggle');
   var nav = document.querySelector('.main-nav');
@@ -15,7 +15,7 @@
   }
 })();
 
-// 桂康诊所 · 滚动入场动画
+// 谢胜山诊所 · 滚动入场动画
 (function () {
   var reveals = document.querySelectorAll('.reveal');
   if (!reveals.length) return;

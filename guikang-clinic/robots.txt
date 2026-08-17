@@ -1,6 +1,6 @@
-# 桂康诊所 robots.txt
+# 谢胜山诊所 robots.txt
 # 允许所有爬虫抓取
 User-agent: *
 Allow: /
 
-Sitemap: https://www.guikang-clinic.com/sitemap.xml
+Sitemap: https://huaihaixie705-beep.github.io/xmu/sitemap.xml
